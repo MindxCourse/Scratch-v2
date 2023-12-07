@@ -1,5 +1,5 @@
 ## Mục tiêu
-![image](https://github.com/MindxCourse/GameMaker/assets/86301553/f6974c82-f112-4892-973f-62bc4fae0d65)
+![image](https://github.com/MindxCourse/Scratch-v2/assets/86301553/6d077b3a-f118-4208-bed0-0ae0673d758b)
 
 ## Thực hiện: 
 - Link slide: [Buổi 1](https://docs.google.com/presentation/d/1LDYUxPljrqD2oj3gHdd4E--V7Rf1Pyto/edit#slide=id.g2428f887be6_1_1133)
